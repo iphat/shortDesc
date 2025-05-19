@@ -1,0 +1,1 @@
+Passport.js is an authentication middleware for Node.js that provides a flexible and modular way to authenticate users in web applications. It supports various authentication strategies, including username/password, OAuth (Google, Facebook, Twitter), and more.
